@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🤖, I'm Isra<br>Jr Frontend Web Developer from Spain.<br>💻 I’m currently working on Dimax Soluciones Integrales<br>❤️ I love TailwindCSS and Svelte<br>💥 I am currently improving with Svelte/SvelteKit and with my English.<br>💬 Let's talk together, we can be great dev friends<br>⚡ Other things about me: Gym | Gaming | Music | Motorcycles<br>           
+Hi 👋🤖, I'm Isra<br>Jr Frontend Web Developer from Spain.<br>💻 I’m currently working on Entreredes Consultoría Tecnológica<br>❤️ I love TailwindCSS and Svelte<br>💥 I am currently improving with Svelte/SvelteKit and with my English.<br>💬 Let's talk together, we can be great dev friends<br>⚡ Other things about me: Gym | Gaming | Music | Motorcycles<br>           
 
 
 ## 🌐 Socials:
