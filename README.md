@@ -13,7 +13,7 @@
 
 *Author of [El Dios en la Placa](https://www.amazon.es/dp/B0F2LHKBHX) — biopunk sci-fi about organoid intelligence and the ethics of conscious neural tissue.*
 
-[![Amazon KDP](https://img.shields.io/badge/Novel-El%20Dios%20en%20la%20Placa-8A2BE2?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.es/dp/B0F2LHKBHX)
+[![Amazon KDP](https://www.amazon.es/dp/B0GHT2DNCB)
 [![Entreredes](https://img.shields.io/badge/Work-Entreredes.es-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=cyan)](https://entreredes.es)
 [![The Viking Monkey](https://img.shields.io/badge/Work-TheVikingMonkey.com-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://thevikingmonkey.com)
 
