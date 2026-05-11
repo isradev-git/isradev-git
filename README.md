@@ -1,29 +1,128 @@
-# 💫 About Me:
-Hi 👋🤖, I'm <a href="https://profile-summary-for-github.com/user/isradev-git">Isra</a><br>Jr Frontend Web Developer from Spain.<br>💻 I have 2 years of experience in the programming world.<br>❤️ I love Linux and cybersecurity<br>💥 I am currently improving my skills with JavaScript, Python, and my English.<br>🔍 Exploring cybersecurity as a hobby and diving into tools like nmap and metasploit.<br>💬 Let's talk together, we can be great dev friends<br>⚡ Other things about me: Gym | Gaming | Music | Motorcycles<br>
+<div align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
-![Arch Linux](https://img.shields.io/badge/arch%20linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Nmap](https://img.shields.io/badge/nmap-%230094FF.svg?style=for-the-badge&logo=nmap&logoColor=white) 
-![Metasploit](https://img.shields.io/badge/metasploit-%23AA007F.svg?style=for-the-badge&logo=metasploit&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+```
+██╗███████╗██████╗  █████╗
+██║██╔════╝██╔══██╗██╔══██╗
+██║███████╗██████╔╝███████║
+██║╚════██║██╔══██╗██╔══██║
+██║███████║██║  ██║██║  ██║
+╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isradev-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**`// FULLSTACK ENGINEER · DEVOPS · SYSTEMS THINKER`**
+
+*Author of [El Dios en la Placa](https://www.amazon.es/dp/B0F2LHKBHX) — biopunk sci-fi about organoid intelligence and the ethics of conscious neural tissue.*
+
+[![Amazon KDP](https://img.shields.io/badge/Novel-El%20Dios%20en%20la%20Placa-8A2BE2?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.es/dp/B0F2LHKBHX)
+[![Entreredes](https://img.shields.io/badge/Work-Entreredes.es-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=cyan)](https://entreredes.es)
+[![The Viking Monkey](https://img.shields.io/badge/Work-TheVikingMonkey.com-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://thevikingmonkey.com)
+
+</div>
+
+---
+
+## `> whoami`
+
+```yaml
+name: Isra
+location: Ciudad Real, Spain
+role: Senior Fullstack Developer & DevOps Engineer
+experience: 3+ years (production)
+current_stack: [Laravel, Livewire, Alpine.js, TailwindCSS, Filament, PHP, TypeScript]
+databases: [MySQL, SQLite]
+infrastructure: [SSH, SFTP, n8n, Ollama, Raspberry Pi 5]
+email_security: [DMARC, SPF, DKIM, BIMI, MTA-STS]
+side_quests:
+  - biopunk novelist (published)
+  - local LLM runner on RPi5 16GB
+  - automation pipeline architect
+```
+
+---
+
+## `> tech_stack --all`
+
+### Core
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+
+![Livewire](https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=filament&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### Infrastructure & DevOps
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_5-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### AI & Automation
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Email Security
+
+![DMARC](https://img.shields.io/badge/DMARC-0A0A0A?style=for-the-badge&logo=protonmail&logoColor=white)
+![SPF](https://img.shields.io/badge/SPF-1a1a2e?style=for-the-badge&logo=mail.ru&logoColor=cyan)
+![DKIM](https://img.shields.io/badge/DKIM-2d2d44?style=for-the-badge&logo=minutemailer&logoColor=white)
+![BIMI](https://img.shields.io/badge/BIMI-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)
+![MTA-STS](https://img.shields.io/badge/MTA--STS-005F73?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+---
+
+## `> projects --highlight`
+
+| Project | Stack | Description |
+|---|---|---|
+| 🧬 **El Dios en la Placa** | Creative | Debut biopunk novel — organoid intelligence, synthetic biology, ethics of sentient neural tissue |
+| 📊 **DMARC Manager** | Laravel + Livewire + MySQL | IMAP-based DMARC report ingestion, anomaly detection, Chart.js dashboards |
+| 🔐 **cifrado.entreredes.es** | Laravel + SQLite | Burn-after-reading encrypted messages (AES-256, PIN-based) |
+| 🤖 **MEGA Web Audit** | n8n | SEO + PageSpeed + tech detection + Discord alerts + HTML reports |
+| 🚀 **Autolanding** | Laravel + SSH/SFTP | Auto-deploy generated landing pages to subdomain from WSL |
+| 🔬 **LLM on RPi5** | Ollama + RPi5 16GB | Local LLM inference on edge hardware |
+
+---
+
+## `> stats`
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isradev-git&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## `> interests --raw`
+
+```bash
+$ cat /proc/isra/hobbies
+> gaming         # Crimson Desert, RPGs, open world
+> gym            # iron therapy
+> motorcycles    # two wheels, open road
+> music          # always on
+> biopunk        # writing what shouldn't exist yet
+> local_ai       # running models where they don't belong
+```
+
+---
+
+<div align="center">
+
+*`// The future is already running. Just not in the cloud.`*
+
+</div>
