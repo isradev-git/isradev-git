@@ -9,7 +9,7 @@
 
 `// FULLSTACK ENGINEER · DEVOPS · SYSTEMS ARCHITECT · BIOPUNK NOVELIST`
 
-`[ Ciudad Real, España · entreredes.es · thevikingmonkey.com ]`
+`[ Ciudad Real, España · entreredes.es · israelzamora.es ]`
 
 ---
 
