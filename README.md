@@ -7,7 +7,7 @@
 ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-`// FULLSTACK ENGINEER · DEVOPS · SYSTEMS ARCHITECT · BIOPUNK NOVELIST`
+`// FULLSTACK ENGINEER · DEVSECOPS · SYSTEMS ARCHITECT · BIOPUNK NOVELIST`
 
 `[ Ciudad Real, España · entreredes.es · israelzamora.es ]`
 
